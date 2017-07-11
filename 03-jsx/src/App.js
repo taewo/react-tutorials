@@ -21,6 +21,7 @@ class App extends React.Component {
                 <button onClick= {this._sayHey}>Click Me</button>
                 <p style = {pStyle}>{1 == 1 ? 'True' : 'False'}</p>
                 <h3>Hello world</h3>
+                <h4>Why not</h4>
             { /* COMMENT */  }
             </div>
         );
